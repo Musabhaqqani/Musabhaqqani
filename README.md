@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musabhaqqani&show_icons=true&locale=en" alt="musabhaqqani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musabhaqqani&" alt="musabhaqqani" /></p>
-[[![wakatime](https://wakatime.com/badge/user/3836a064-a988-4d97-b37e-01383208672e.svg)](https://wakatime.com/@3836a064-a988-4d97-b37e-01383208672e)](https://github-readme-stats.vercel.app/api/wakatime?username=Musab_Haqqani)](https://github.com/anuraghazra/github-readme-stats)
