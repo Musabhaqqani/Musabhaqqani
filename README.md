@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Musab_Haqqani)](https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Musab_Haqqani&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Musab_Haqqani](https://github-readme-stats.vercel.app/api/wakatime?username=Musab_Haqqani)&layout=compact&langs_count=8&card_width=320" />
 </a>
 <!--END_SECTION:waka-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musabhaqqani&show_icons=true&locale=en&layout=compact" alt="musabhaqqani" /></p>
