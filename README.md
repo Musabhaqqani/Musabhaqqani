@@ -28,7 +28,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Musab_Haqqani&layout=compact&langs_count=8&card_width=320" />
 </a> -->
 <!--END_SECTION:waka-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musabhaqqani&show_icons=true&locale=en&layout=compact" alt="musabhaqqani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musabhaqqani&show_icons=true&locale=en&layout=pie" alt="musabhaqqani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musabhaqqani&show_icons=true&locale=en" alt="musabhaqqani" /></p>
 
