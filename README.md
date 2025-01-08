@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently diving into the world of web development **React,Angular,NodeJs,Django,postgresSQL,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://musabhaqqani.rocks/](https://musabhaqqani.rocks/)
 
 - 💬 Ask me about **MERN,MEAN, Android**
 
